@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C93915881F02706B006FB373 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4SATXSBS3D;
 						ProvisioningStyle = Automatic;
 					};
 					C939159C1F02706B006FB373 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4SATXSBS3D;
 				INFOPLIST_FILE = LocalNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = oodlestech.LocalNotification;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4SATXSBS3D;
 				INFOPLIST_FILE = LocalNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = oodlestech.LocalNotification;
